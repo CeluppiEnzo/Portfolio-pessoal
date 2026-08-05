@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: "Sistema de estoque em Java",
     description: "Sistema de gerenciamento de estoque desenvolvido em Java para praticar POO, manipulação de objetos e atualização de quantidade de produtos.",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop",
+    image: "https://www.magnific.com/br/fotos-vetores-gratis/sistema-gerenciamento-estoque",
     link: "https://github.com/CeluppiEnzo/estoque-de-produtos-java",
     layout: "normal"
   },
