@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: "Sistema de estoque em Java",
     description: "Sistema de gerenciamento de estoque desenvolvido em Java para praticar POO, manipulação de objetos e atualização de quantidade de produtos.",
-    image: "https://www.magnific.com/br/fotos-vetores-gratis/sistema-gerenciamento-estoque",
+    image: "projeto1_estoque.jpg",
     link: "https://github.com/CeluppiEnzo/estoque-de-produtos-java",
     layout: "normal"
   },
@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Agenda de contatos em Java",
     description: "Aplicação para cadastrar, listar, buscar, editar e remover contatos utilizando Java, ArrayList e programação orientada a objetos.",
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+    image: "projeto2_agenda.jpg",
     link: "https://github.com/CeluppiEnzo/agenda-de-contatos-java",
     layout: "reverse"
   },
@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     title: "Lista de tarefas em Java",
     description: "Gerenciador de tarefas com funcionalidades de cadastro, listagem, conclusão e remoção de tarefas, desenvolvido para praticar POO e organização de código.",
-    image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600&h=400&fit=crop",
+    image: "projeto3_tarefas.jpg",
     link: "https://github.com/CeluppiEnzo/lista-de-tarefas-java",
     layout: "normal"
   },
@@ -31,7 +31,7 @@ const projects = [
     id: 4,
     title: "Sistema de biblioteca em Java",
     description: "Projeto de gerenciamento de biblioteca com cadastro, busca, listagem e remoção de livros, desenvolvido para consolidar conceitos fundamentais de Java.",
-    image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=600&h=400&fit=crop",
+    image: "projeto4_biblioteca.png",
     link: "https://github.com/CeluppiEnzo/Biblioteca-java",
     layout: "reverse"
   }
